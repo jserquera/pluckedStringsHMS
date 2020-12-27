@@ -1,6 +1,8 @@
 # pluckedStringsHMS
 A plucked string instrument using the HMS technique, or Histogram Mapping Synthesis. It is comprised of two files, a small patch and a text file with envelopes (out of histograms).
 
+More info about this patch in the wiki.
+
 
 # More about HMS
 
